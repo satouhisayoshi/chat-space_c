@@ -1,4 +1,6 @@
 @import "./reset";
-@import "modules/users";
+@import "modules/user";
 @import "config/colors";
 @import "modules/flash";
+@import "./style.scss";
+@import "modules/group";
